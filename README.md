@@ -1,2 +1,3 @@
-# ChatBot-for-CodeClause
-CodeClause Data Science Intern TASK3 : ChatBot for CodeClause (Golden Projects) Name : OMER ABDULLAH
+CodeClause Data Science Intern
+TASK3 : ChatBot for CodeClause (Golden Projects)
+Name : OMER ABDULLAH
